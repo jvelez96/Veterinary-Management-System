@@ -1,6 +1,4 @@
-# SIBD1819
+# Information Systems and Databases Project
 
-Simple project using PHP and mySQL for introduction purposes.
+Veterinary management system. Project using PHP and mySQL.
 
-Veterinary management system
-# Database_Intro_Project
